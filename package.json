@@ -1,6 +1,6 @@
 {
   "name": "@andika1602/cp_dartblue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dartblue React OSS Project for TEA Testnet",
   "main": "npm-entry.js",  
   "private": false,
