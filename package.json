@@ -1,8 +1,8 @@
 {
   "name": "@andika1602/cp_dartblue",
   "version": "1.0.0",
-  "description": "OSS project Dartblue untuk TEA testnet",
-  "main": "App.js",  
+  "description": "Dartblue React OSS Project for TEA Testnet",
+  "main": "npm-entry.js",  
   "private": false,
   "license": "MIT",
   "publishConfig": {
@@ -22,6 +22,12 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "keywords": [
+    "tea",
+    "oss",
+    "dartblue",
+    "react"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
